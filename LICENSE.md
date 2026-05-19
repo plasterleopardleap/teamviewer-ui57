@@ -1,4 +1,4 @@
-# 
+# advanced VMware Workstation PC版 插件 是最佳 VMware Workstation PC版 插件，集成 导入导出 和 命令行工具。安全、可靠、优化，性能最大化。
 
 
 
